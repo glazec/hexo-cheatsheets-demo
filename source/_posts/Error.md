@@ -61,7 +61,16 @@ the first line
 ```bash
 the second line
 ```
-hexo command`hexo`
-hexo command`hexo server`
+hexo command `hexo`
+hexo command `hexo server`
 * divider for ul
 * divider for ul
+
+### code highlight
+```bash
+#!/usr/bin/env bash
+
+NAME="John"
+echo "Hello $NAME!"
+```
+See [link](https://link)
